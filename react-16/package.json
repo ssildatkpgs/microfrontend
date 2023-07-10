@@ -8,7 +8,7 @@
     "@testing-library/user-event": "^7.2.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "npm run build && serve -l 5002 dist",
@@ -32,16 +32,16 @@
     ]
   },
   "devDependencies": {
-    "@babel/core": "^7.9.0",
+    "@babel/core": "^7.22.8",
     "@babel/plugin-proposal-class-properties": "^7.8.3",
-    "@babel/preset-env": "^7.9.0",
+    "@babel/preset-env": "^7.22.7",
     "@babel/preset-react": "^7.9.4",
-    "babel-loader": "^8.1.0",
+    "babel-loader": "^9.1.3",
     "css-loader": "^3.4.2",
     "html-to-react": "^1.4.2",
     "style-loader": "^1.1.3",
-    "webpack": "^4.42.1",
-    "webpack-cli": "^3.3.11",
-    "webpack-dev-server": "^3.10.3"
+    "webpack": "^5.88.1",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.1"
   }
 }
